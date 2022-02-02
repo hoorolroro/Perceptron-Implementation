@@ -16,7 +16,7 @@ perceptron이란? 두뇌의 인지 능력을 모방하도록 만든 인위적인
 perceptron도 이전 데이터로부터 중요한 정보를 받고, 받은 정보를 처리한 뒤, 다음 perceptron에 정보를 내보낼지 결정한다. 
 
 # Activation function의 역할
-1.가중합($\Sigma$ $w_i$ $x_i$)이 임계값 이하이면 0(에 가까운 값)으로, 이상이면 1(에 가까운 값으)로 내보내주는 구조
+1.가중합(<img src="https://latex.codecogs.com/gif.latex?$\Sigma w_i x_i" />)이 임계값 이하이면 0(에 가까운 값)으로, 이상이면 1(에 가까운 값으)로 내보내주는 구조
 
 2.다음 perceptron에 보낼 신호의 강도를 결정
 
