@@ -23,3 +23,4 @@ perceptron도 이전 데이터로부터 중요한 정보를 받고, 받은 정�
 3.Step func, Sigmoid func, ReLu가 대표적으로 쓰임
 
 \Sigma
+<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
