@@ -59,4 +59,4 @@ perceptron도 이전 데이터로부터 중요한 정보를 받고, 받은 정�
 
 ● Activation function은 Sigmoid function과 ReLU function 두 가지를 사용하였다.
 
-● 최종적으로 Activation function값은 ReLu function에서 0.9962, Sigmoid function에서 0.7928이 나왔다.
+● 결과적으로 Activation function값은 ReLu function에서 0.9962, Sigmoid function에서 0.7928이 나왔다.
