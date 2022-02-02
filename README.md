@@ -51,3 +51,10 @@ perceptron도 이전 데이터로부터 중요한 정보를 받고, 받은 정�
 ● 학습이 빠르고 최종 결과도 더 좋은 경우가 많음
 
 # 프로그램 구현
+위 프로젝트는 아래와 같이 perceptron을 구현하였다.
+
+<img src="https://user-images.githubusercontent.com/98728682/152102113-21ffd895-5d15-443f-84ae-5b68bffd6ddf.png"  width="400" height="300">
+
+Activation function은 Sigmoid function과 ReLU function 두 가지를 사용하였다.
+
+최종적으로 Activation function값은 ReLu function에서 0.9962, Sigmoid function에서 0.7928이 나왔다.
