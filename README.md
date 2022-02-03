@@ -19,11 +19,11 @@ perceptron도 이와 같이 이전 데이터로부터 중요한 정보를 받고
 
 
 # Activation function의 역할과 종류
-1.가중치와 데이터들의 선형값의 합인 가중합이 임계값 이하이면 0(에 가까운 값)으로, 이상이면 1(에 가까운 값으)로 내보내주는 구조이다.
+1. 가중치와 데이터들의 선형값의 합인 가중합이 임계값 이하이면 0(에 가까운 값)으로, 이상이면 1(에 가까운 값으)로 내보내주는 구조이다.
 
-2. 다음 perceptron에 보낼 신호의 강도를 결정
+2. 다음 perceptron에 보낼 신호의 강도를 결정이다.
 
-3. Step func, Sigmoid func, ReLu가 대표적으로 쓰임
+3. Step func, Sigmoid func, ReLu가 대표적으로 쓰인다.
 
 
 (1) step function
