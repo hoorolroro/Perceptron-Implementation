@@ -26,6 +26,9 @@ perceptron도 이와 같이 이전 데이터로부터 중요한 정보를 받고
 3. Step func, Sigmoid func, ReLu가 대표적으로 쓰인다.
 
 
+
+
+
 (1) step function
 
 ![images](https://user-images.githubusercontent.com/98728682/152089932-889279c8-cb4f-408a-840c-5c06f3708279.png)
