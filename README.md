@@ -53,7 +53,7 @@ perceptron도 이와 같이 이전 데이터로부터 중요한 정보를 받고
 # 프로그램 구현
 위 프로젝트는 아래와 같이 perceptron을 구현하였다.
 
-<img src="https://user-images.githubusercontent.com/98728682/152106571-bddd61fb-7a58-4cb3-a50e-1dc9a2c47af8.jpg">
+<img src="https://user-images.githubusercontent.com/98728682/152106571-bddd61fb-7a58-4cb3-a50e-1dc9a2c47af8.jpg" width="320" height="250">
 
 ● 데이터에 1과 2를 텐서 형태로 대입한 뒤, 임의의 웨이트 값과 바이어스의 값에 대한 activation function 값을 구현해 보았다.
 
